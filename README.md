@@ -80,7 +80,7 @@ ElBuenParker.skills.push(...languages, ...frameworks, ...databases);
     <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,figma,firebase,github,html,js,mysql,nextjs,nodejs,py,react,tailwind,vscode&perline=14" />
   </a>
 </p>
-![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
+<img src="https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif">
 
 -----
 <!--horizontal divider(gradiant)-->
