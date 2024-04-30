@@ -77,7 +77,7 @@ ElBuenParker.skills.push(...languages, ...frameworks, ...databases);
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,figma,firebase,github,html,js,mysql,nextjs,nodejs,py,react,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,figma,firebase,github,html,js,mysql,nodejs,py,react,tailwind,vscode&perline=14" />
   </a>
 </p>
 <img src="https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif">
