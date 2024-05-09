@@ -65,8 +65,6 @@ ElBuenParker.skills.push(...languages, ...frameworks, ...databases);
 
 ![ElBuenParker's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElBuenParker&show_icons=true&theme=radical) <a href="https://github.com/ElBuenParker/github-readme-stats"><img alt="ElBuenParker Tewary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElBuenParker&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ElBuenParker&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
